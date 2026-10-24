@@ -1,2 +1,4 @@
 /branch_bench
+build/
 *.out
+.vscode
